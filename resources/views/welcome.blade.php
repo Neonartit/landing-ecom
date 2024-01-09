@@ -112,6 +112,24 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     <button class="btn btn-primary">Add to Cart</button>
                 </div>
+                <div class="product-card">
+                    <img src="{{ url('assets/img/landingImage/product3.jpg') }}" alt="Product 2">
+                    <h3>Product 5</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <button class="btn btn-primary">Add to Cart</button>
+                </div>
+                <div class="product-card">
+                    <img src="{{ url('assets/img/landingImage/product3.jpg') }}" alt="Product 2">
+                    <h3>Product 6</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <button class="btn btn-primary">Add to Cart</button>
+                </div>
+                <div class="product-card">
+                    <img src="{{ url('assets/img/landingImage/product3.jpg') }}" alt="Product 2">
+                    <h3>Product 7</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <button class="btn btn-primary">Add to Cart</button>
+                </div>
 
                 <!-- Add more product cards as needed... -->
             </div>
